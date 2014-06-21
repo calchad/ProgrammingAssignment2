@@ -1,3 +1,5 @@
+## RProgamming Assignment 2
+## 2014_06_22
 ## 
 ## The lexical scoping rules of the R language can be manipulated to preserve
 ## the state of a variable in an R object.  This can speed up code executuion
